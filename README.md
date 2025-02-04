@@ -1,5 +1,5 @@
 # Wireframing Exercise
-This is a rough buildout of Youtube using mainly HTML and some inline CSS.
+This is a rough buildout of the UFC website using mainly HTML and CSS.
 
 
 ![Wireframe](Wireframe.png)

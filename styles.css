@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    background: #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.body {
+    padding: 20px;
+    text-align: center;
+}
+
+.main-content {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #000;
+}
+
+.figure {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+}
+
+.article {
+    border: 1px solid #000;
+    padding: 20px;
+    width: 100px;
+    text-align: center;
+}
